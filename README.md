@@ -27,21 +27,21 @@
 </p>
 ---
 <br/>
-### 👋 Giới thiệu về tôi
+###  Giới thiệu về tôi
 <!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
 Tôi là một lập trình viên yêu thích công nghệ, đặc biệt là phát triển các **hệ thống Backend**. Tôi luôn tìm tòi, học hỏi các kiến thức mới và tích cực đóng góp cho cộng đồng mã nguồn mở.
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
-- 🔭 **Định hướng**: Backend System Development, Microservices & Cloud Native.
-- 🌱 **Đang học hỏi & trau dồi**: Java, Spring Boot, Docker, System Design & Architecture.
-- 💬 **Sẵn sàng chia sẻ về**: Java/Spring, RESTful APIs, Git, Linux.
-- 📫 **Liên hệ với tôi**: Qua GitHub hoặc Discord community.
+- **Định hướng**: Backend System Development, Microservices & Cloud Native.
+- **Đang học hỏi & trau dồi**: Java, Spring Boot, Docker, System Design & Architecture.
+- **Sẵn sàng chia sẻ về**: Java/Spring, RESTful APIs, Git, Linux.
+- **Liên hệ với tôi**: Qua GitHub hoặc Discord community.
 <h2>
   <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" alt="icon" />
   &nbsp;Giới thiệu về tôi
 </h2>
 ---
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" alt="coding animation" />
-### 📚 Ngôn ngữ & Công cụ (Tech Stack)
+###  Ngôn ngữ & Công cụ (Tech Stack)
 ```yaml
 name: Ngô Thanh Nhân
 role: Backend Developer
@@ -67,7 +67,7 @@ currently_learning:
   - "Docker & Container Orchestration"
   - "System Design & Architecture"
   - "Database Optimization"
-### 📊 Thống kê GitHub
+### Thống kê GitHub
 life_motto: "Code is like humor. When you have to explain it, it's bad."
 ```
 <br clear="both" />
