@@ -1,36 +1,36 @@
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=&size=27&pause=1000&color=F03B9E&center=true&vCenter=true&repeat=false&width=435&lines=Ho%C3%A0ng+Anh+Ti%E1%BA%BFn"></a>
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=&size=27&pause=1000&color=F03B9E&center=true&vCenter=true&repeat=false&width=435&lines=Ng%C3%B4+Thanh+Nh%C3%A2n"></a>
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/hoangtien_2k3"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  <a href="https://twitter.com/ngothanhnhan"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/cFAkCXVQ" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/hoangtien_2k3"><img width="32px" alt="Dev.to" title="hoangtien2k3 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://dev.to/ngothanhnhan"><img width="32px" alt="Dev.to" title="ngothanhnhan Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/hoangtien2k3"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  <a href="https://ko-fi.com/ngothanhnhan"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.youtube.com/@hoangtien2k3"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.youtube.com/@ngothanhnhan"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.buymeacoffee.com/hoangtien2k3"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
+  <a href="https://www.buymeacoffee.com/ngothanhnhan"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
 
 <h2>👋 Hi there, Good Day</h2>
 
 <div>
-  <a href="https://github.com/reactifyx">
+  <a href="https://github.com/ngothanhnhan">
       <img src="img/icon_docker_sys.png" alt="Backend Open Source" align="right" width="210">
   </a>
 
   <div align="left">
     I am passionate about technology, especially in backend system development. I enjoy learning, exploring new knowledge, 
-    and actively contributing to open-source projects for the community. In addition, I regularly share knowledge on my TikTok channel 🇻🇳[ctdl.gt](https://www.tiktok.com/@ctdl.gt)
+    and actively contributing to open-source projects for the community.
 
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg">
-      <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg" width="600">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ngothanhnhan/ngothanhnhan/output/pacman-contribution-graph-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ngothanhnhan/ngothanhnhan/output/pacman-contribution-graph.svg">
+      <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ngothanhnhan/ngothanhnhan/output/pacman-contribution-graph.svg" width="600">
     </picture>
   </div>
 </div>
@@ -58,19 +58,19 @@
 
 <details>
 <summary> More about me, backend dev 🔥
-  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=hoangtien2k3.visitor-badge">
+  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=ngothanhnhan.visitor-badge">
 </summary> 
 
 <p align="center">
   <img src="img/header_.png" alt="Header">
   <img src="gitartwork.svg" alt="TIEN2K3">
-  <img src="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/main/dist/grid-snake.svg" alt="Grid-Snake">
+  <img src="https://raw.githubusercontent.com/ngothanhnhan/ngothanhnhan/main/dist/grid-snake.svg" alt="Grid-Snake">
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ngothanhnhan/ngothanhnhan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ngothanhnhan/ngothanhnhan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ngothanhnhan/ngothanhnhan/output/pacman-contribution-graph.svg">
 </picture>
 
 <h3 align="left"> 📚 Languages and Tools </h3>
@@ -92,12 +92,12 @@
 
 <h3>🔥 Streak Stats</h3>
 <p>
-  <a href="https://github.com/hoangtien2k3/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="hoangtien2k3's streak" src="https://streak-stats.demolab.com/?user=hoangtien2k3&theme=monokai-metallian&hide_border=true"/>
-    <img src="https://i.ibb.co/N366vtQ/hoangtien2k3.png" alt="hoangtien2k3" width="200px">
+  <a href="https://github.com/ngothanhnhan/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ngothanhnhan's streak" src="https://streak-stats.demolab.com/?user=ngothanhnhan&theme=monokai-metallian&hide_border=true"/>
+    <img src="https://i.ibb.co/N366vtQ/hoangtien2k3.png" alt="ngothanhnhan" width="200px">
   </a>
 </p>
-<p>🔥 Get streak stats for your profile at <a href="https://hoangtien2k3.github.io">hoangtien2k3.github.io</a></p>
+<p>🔥 Get streak stats for your profile at <a href="https://ngothanhnhan.github.io">ngothanhnhan.github.io</a></p>
 
 <h3>💻💬 GitHub Profile Stats</h3>
 <div align="center">
@@ -128,8 +128,8 @@
 </div>
 
 <p align="center">
-  <a href="#"><img alt="hoangtien2k3's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hoangtien2k3&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="#"><img alt="hoangtien2k3's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hoangtien2k3&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="#"><img alt="ngothanhnhan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ngothanhnhan&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="#"><img alt="ngothanhnhan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ngothanhnhan&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 </p>
 
 <p align="center">
@@ -137,31 +137,31 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="hoangtien2k3's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hoangtien2k3&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ngothanhnhan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ngothanhnhan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
 
 <h3>⚡ Recent GitHub Activity</h3>
 
 <p align="center">
   <a href="https://commits.top/vietnam.html">
-    <img src="http://iot.fbiego.com/api/v1/commits?user=hoangtien2k3&country=VietNam&bg_color=293035&text_color=fafafa&border_color=293035">
+    <img src="http://iot.fbiego.com/api/v1/commits?user=ngothanhnhan&country=VietNam&bg_color=293035&text_color=fafafa&border_color=293035">
   </a>
   <a href="https://commits.top/vietnam_private.html">
-    <img src="http://iot.fbiego.com/api/v1/commits?user=hoangtien2k3&country=VietNam_Private&bg_color=293035&text_color=fafafa&border_color=293035">
+    <img src="http://iot.fbiego.com/api/v1/commits?user=ngothanhnhan&country=VietNam_Private&bg_color=293035&text_color=fafafa&border_color=293035">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://hoangtien2k3.github.io"><img src="https://github.com/hoangtien2k3/hoangtien2k3/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="@hoangtien2k3's Web hoangtien2k3"></a>
+  <a href="https://ngothanhnhan.github.io"><img src="https://github.com/ngothanhnhan/ngothanhnhan/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="@ngothanhnhan's Web ngothanhnhan"></a>
 </p>
 
 <div align="center">
-  <a href="https://github.com/hoangtien2k3">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hoangtien2k3&theme=2077" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hoangtien2k3&theme=2077" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hoangtien2k3&theme=2077" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hoangtien2k3&theme=2077" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hoangtien2k3&theme=2077" height="180em" />
+  <a href="https://github.com/ngothanhnhan">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ngothanhnhan&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ngothanhnhan&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ngothanhnhan&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ngothanhnhan&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ngothanhnhan&theme=2077" height="180em" />
   </a>
 </div>
 
