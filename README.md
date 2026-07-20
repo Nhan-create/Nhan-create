@@ -18,6 +18,7 @@
   <a href="https://www.buymeacoffee.com/YOUR-BMC"><img width="32px" alt="Buy Me A Coffee" title="Buy me a coffee" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
 
+
 <h2>👋 Hi there, Good Day</h2>
 
 <div>
@@ -26,12 +27,12 @@
       <img src="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/main/img/icon_docker_sys.png" alt="Developer System Illustration" align="right" width="210">
   </a>
 
-
   <div align="left">
 
 I am passionate about software development, focusing on cross-platform frameworks, web architectures, and data analytics. I enjoy building robust applications and exploring distributed computing infrastructures.
 
 - 🔭 I’m currently working on projects involving **Flutter**, **ASP.NET MVC**, and **Big Data pipelines**.
+- 👯 I regularly collaborate with **Romfff**.
 - ⚡ Fun fact: I enjoy tracking international football statistics and historical tournament analytics.
 
 <br>
@@ -45,7 +46,6 @@ I am passionate about software development, focusing on cross-platform framework
 
   </div>
 </div>
-  
 
 <h2>📚 Language and Tools</h2>
 <p align="left">
