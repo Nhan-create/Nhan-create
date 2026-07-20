@@ -56,7 +56,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nhan-create&theme=tokyonight&hide_border=true" alt="streak card" />
+  
 
 </div>
 
