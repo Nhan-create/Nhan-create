@@ -33,7 +33,6 @@
 I am passionate about software development, focusing on cross-platform frameworks, web architectures, and data analytics. I enjoy building robust applications and exploring distributed computing infrastructures.
 
 - 🔭 I’m currently working on projects involving **Flutter**, **ASP.NET MVC**, and **Big Data pipelines**.
-- 👯 I regularly collaborate with **Romfff**.
 - ⚡ Fun fact: I enjoy tracking international football statistics and historical tournament analytics.
 
 <br>
