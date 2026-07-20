@@ -1,52 +1,43 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3CAC,50:784BA0,100:2B86C5&height=220&section=header&text=Ngô%20Thanh%20Nhân&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Open%20Source%20Enthusiast&descSize=18&descAlignY=55&descAlign=50" alt="header" />
+<h1 align="center">Ngô Thanh Nhân</h1>
 
-<p align="center">
-  <a href="https://github.com/Nhan-create">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=784BA0&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%92%BB+Passionate+about+Backend+Systems;%E2%9A%99%EF%B8%8F+Building+scalable+%26+reliable+architectures;%F0%9F%8C%8D+Contributing+to+Open+Source+Community" alt="Typing SVG" />
-  </a>
+### 👋 Hi there, Good Day
+
+I am passionate about software development, focusing on cross-platform frameworks, web architectures, and data analytics. I enjoy building robust applications and exploring distributed computing infrastructures.
+
+- 🔭 I’m currently working on projects involving **Flutter**, **ASP.NET MVC**, and **Big Data pipelines**.
+- 👯 I regularly collaborate with **Romfff**.
+- ⚡ Fun fact: I enjoy tracking international football statistics and historical tournament analytics.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nhan-create/Nhan-create/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nhan-create/Nhan-create/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nhan-create/Nhan-create/output/github-contribution-grid-snake.svg">
+</picture>
+
+### 📚 Language and Tools
+
+<p align="left">
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a>
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="spark" width="40" height="40"/> </a>
+  <a href="https://flink.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_flink/apache_flink-icon.svg" alt="flink" width="40" height="40"/> </a>
+  <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql-server" width="40" height="40"/> </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Nhan-create">
-    <img src="https://img.shields.io/badge/GitHub-Nhan--create-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>&nbsp;
-  <a href="mailto:nngo9154@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-nngo9154%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>&nbsp;
-  <a href="https://www.facebook.com/nhan.2005.05.08">
-    <img src="https://img.shields.io/badge/Facebook-Thanh%20Nhân-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-</p>
+### 💼 Featured Projects
+- **ViecCuaTui**: Mobile recruitment portal application incorporating functional algorithmic matching directories.
+- **Bakery E-commerce**: Online storefront utilizing ASP.NET MVC patterns and visual design layouts.
+- **Big Data Analytics**: Distributed multi-node Hadoop and Apache Spark cluster inside virtualized runtime instances for parallel log processing.
+- **Corporate Systems Portfolio**: Information network logistics and procurement workflow mapping for a garment manufacturing firm.
 
-<br/>
-
-<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
-
-<h2>
-  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" alt="icon" />
-  &nbsp;Giới thiệu về tôi
-</h2>
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" alt="coding animation" />
-
-```yaml
-name: Ngô Thanh Nhân
-role: Backend Developer
-location: Việt Nam 🇻🇳
-education: Đang học tập & rèn luyện mỗi ngày
-
-fields_of_interest:
-  - Backend System Development
-  - Microservices Architecture
-  - Cloud Native & DevOps
-  - Open Source Contribution
-
-currently_learning:
-  - "Spring Boot & Spring Cloud"
-  - "Docker & Container Orchestration"
-  - "System Design & Architecture"
-  - "Database Optimization"
-
-life_motto: "Code is like humor. When you have to explain it, it's bad."
+<details>
+  <summary>More about me 🔥 <img src="https://profile-counter.glitch.me/Nhan-create/count.svg" alt="Visitor Count" /></summary>
+  
+  <img src="LINK_TO_YOUR_BANNER_IMAGE" alt="Banner" width="100%" />
+</details>
