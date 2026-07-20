@@ -68,6 +68,9 @@ I am passionate about software development, focusing on cross-platform framework
 <summary> More about me, developer 🚀
   <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Nhan-create.visitor-badge">
 </summary> 
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/main/img/header_.png" alt="Developer Stickers Banner" width="100%" />
+</p>
 <p align="center">
   <img src="gitartwork.svg" alt="NHAN gitartwork" />
 </p>
