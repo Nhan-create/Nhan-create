@@ -5,8 +5,12 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 */4 * * *" # Tự động chạy lại mỗi 4 tiếng để cập nhật
-  workflow_dispatch: # Cho phép bạn bấm chạy thủ công bất cứ lúc nào
+    - cron: "0 */4 * * *"
+  workflow_dispatch:  
+
+# THÊM 2 DÒNG NÀY ĐỂ CẤP QUYỀN GHI FILE:
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -18,7 +22,7 @@ jobs:
       - uses: jasineri/gitartwork@v1
         with:
            user_name: Nhan-create
-           text: NHAN! # Chữ hiển thị trên lịch đóng góp (Tối đa khoảng 8 ký tự)
+           text: NHAN!
            
       - name: Set Git User
         run: |
