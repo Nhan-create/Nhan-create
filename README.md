@@ -76,28 +76,7 @@ I am passionate about software development, focusing on cross-platform framework
 </p>
 <p align="center">
   <img src="gitartwork.svg" alt="NHAN gitartwork" />
-</p>
-  <p align="center">
-  <img src="gitartwork.svg" alt="NHAN! gitartwork" width="100%" />
-</p>
-<!-- 1. Tiêu đề chữ chạy tên bạn trên cùng -->
-<p align="center">
-  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=&size=27&pause=1000&color=F03B9E&center=true&vCenter=true&width=435&lines=Ng%C3%B4+Thanh+Nh%C3%A2n;Software+Developer;Big+Data+Enthusiast"></a>
-</p>
 
-<!-- 2. DÁN ĐOẠN CODE BIỂU ĐỒ CHỮ VÀO ĐÂY -->
-<p align="center">
-  <img src="gitartwork.svg" alt="NHAN! gitartwork" width="100%" />
-</p>
-
-<!-- 3. Biểu đồ Pacman phía dưới -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nhan-create/Nhan-create/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nhan-create/Nhan-create/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nhan-create/Nhan-create/output/pacman-contribution-graph.svg" width="100%">
-  </picture>
-</p>
 <img src="https://media.giphy.com/media/qgQUggAC3PfvGTJVPQ/giphy.gif" alt="Coding Banner" width="100%" />
 
 
