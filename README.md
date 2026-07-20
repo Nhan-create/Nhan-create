@@ -31,7 +31,6 @@
 I am passionate about software development, focusing on cross-platform frameworks, web architectures, and data analytics. I enjoy building robust applications and exploring distributed computing infrastructures.
 
 - 🔭 I’m currently working on projects involving **Flutter**, **ASP.NET MVC**, and **Big Data pipelines**.
-- 👯 I regularly collaborate with **Romfff**.
 - ⚡ Fun fact: I enjoy tracking international football statistics and historical tournament analytics.
 
 <br>
@@ -69,8 +68,9 @@ I am passionate about software development, focusing on cross-platform framework
 <summary> More about me, developer 🚀
   <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Nhan-create.visitor-badge">
 </summary> 
-
 <p align="center">
+  <img src="gitartwork.svg" alt="NHAN gitartwork" />
+</p>
 
 <img src="https://media.giphy.com/media/qgQUggAC3PfvGTJVPQ/giphy.gif" alt="Coding Banner" width="100%" />
 
