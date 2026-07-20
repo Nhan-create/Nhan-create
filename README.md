@@ -1,174 +1,197 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3CAC,50:784BA0,100:2B86C5&height=220&section=header&text=Ngô%20Thanh%20Nhân&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Open%20Source%20Enthusiast&descSize=18&descAlignY=55&descAlign=50" alt="header" />
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=&size=27&pause=1000&color=F03B9E&center=true&vCenter=true&repeat=false&width=435&lines=Ng%C3%B4+Thanh+Nh%C3%A2n"></a>
-</p>
-
-<p align="center">
-  <a href="https://twitter.com/ngothanhnhan"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/cFAkCXVQ" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/ngothanhnhan"><img width="32px" alt="Dev.to" title="ngothanhnhan Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/ngothanhnhan"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.youtube.com/@ngothanhnhan"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.buymeacoffee.com/ngothanhnhan"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
-</p>
-
-<h2>👋 Hi there, Good Day</h2>
-
-<div>
-  <a href="https://github.com/ngothanhnhan">
-      <img src="img/icon_docker_sys.png" alt="Backend Open Source" align="right" width="210">
+  <a href="https://github.com/Nhan-create">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=F03B9E&center=true&vCenter=true&width=435&lines=Ng%C3%B4+Thanh+Nh%C3%A2n;Backend+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=784BA0&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%92%BB+Passionate+about+Backend+Systems;%E2%9A%99%EF%B8%8F+Building+scalable+%26+reliable+architectures;%F0%9F%8C%8D+Contributing+to+Open+Source+Community" alt="Typing SVG" />
   </a>
-
-  <div align="left">
-    I am passionate about technology, especially in backend system development. I enjoy learning, exploring new knowledge, 
-    and actively contributing to open-source projects for the community.
-
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ngothanhnhan/ngothanhnhan/output/pacman-contribution-graph-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ngothanhnhan/ngothanhnhan/output/pacman-contribution-graph.svg">
-      <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ngothanhnhan/ngothanhnhan/output/pacman-contribution-graph.svg" width="600">
-    </picture>
-  </div>
-</div>
-
-<h2>📚 Language and Tools</h2>
+</p>
+<p align="center">
+  <a href="https://github.com/Nhan-create">
+    <img src="https://img.shields.io/badge/GitHub-Nhan--create-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  </a>&nbsp;
+  <a href="https://dev.to/ngothanhnhan">
+    <img src="https://img.shields.io/badge/DEV.to-ngothanhnhan-0A0A0A?style=for-the-badge&logo=devto&logoColor=white" alt="Dev.to" />
+  </a>
+    <img src="https://img.shields.io/badge/DEV.TO-ngothanhnhan-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
+  </a>&nbsp;
+  <a href="https://discord.gg/cFAkCXVQ">
+    <img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+    <img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>&nbsp;
+  <a href="https://www.youtube.com/@ngothanhnhan">
+    <img src="https://img.shields.io/badge/YouTube-ngothanhnhan-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
+---
+<br/>
+### 👋 Giới thiệu về tôi
+<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
+Tôi là một lập trình viên yêu thích công nghệ, đặc biệt là phát triển các **hệ thống Backend**. Tôi luôn tìm tòi, học hỏi các kiến thức mới và tích cực đóng góp cho cộng đồng mã nguồn mở.
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
+- 🔭 **Định hướng**: Backend System Development, Microservices & Cloud Native.
+- 🌱 **Đang học hỏi & trau dồi**: Java, Spring Boot, Docker, System Design & Architecture.
+- 💬 **Sẵn sàng chia sẻ về**: Java/Spring, RESTful APIs, Git, Linux.
+- 📫 **Liên hệ với tôi**: Qua GitHub hoặc Discord community.
+<h2>
+  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" alt="icon" />
+  &nbsp;Giới thiệu về tôi
+</h2>
+---
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300" alt="coding animation" />
+### 📚 Ngôn ngữ & Công cụ (Tech Stack)
+```yaml
+name: Ngô Thanh Nhân
+role: Backend Developer
+location: Việt Nam 🇻🇳
+education: Đang học tập & rèn luyện mỗi ngày
 <p align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://github.com/gilbarbara/logos/blob/main/logos/reactivex.svg" alt="RxJava" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" alt="maven" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" alt="android" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" alt="apache_kafka" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitmq" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgre" width="40" height="40">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
-
-<details>
-<summary> More about me, backend dev 🔥
-  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=ngothanhnhan.visitor-badge">
-</summary> 
-
+fields_of_interest:
+  - Backend System Development
+  - Microservices Architecture
+  - Cloud Native & DevOps
+  - Open Source Contribution
+---
+currently_learning:
+  - "Spring Boot & Spring Cloud"
+  - "Docker & Container Orchestration"
+  - "System Design & Architecture"
+  - "Database Optimization"
+### 📊 Thống kê GitHub
+life_motto: "Code is like humor. When you have to explain it, it's bad."
+```
+<br clear="both" />
+<br/>
+<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
+<h2>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" alt="icon" />
+  &nbsp;Tech Stack & Công cụ
+</h2>
+<table align="center">
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br><b>Java</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+      <br><b>Spring</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br><b>Docker</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br><b>Git</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br><b>Linux</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+      <br><b>MySQL</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br><b>PostgreSQL</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br><b>Redis</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br><b>GitHub</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br><b>VS Code</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ" />
+      <br><b>IntelliJ</b>
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+      <br><b>Bash</b>
+    </td>
+  </tr>
+</table>
+<br/>
+<!-- ═══════════════════════ WHAT I DO ═══════════════════════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
+<h2>
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37c7-4b2b-ba2b-513b75f71a8c.gif" width="30" alt="icon" />
+  &nbsp;Tôi đang làm gì
+</h2>
 <p align="center">
-  <img src="img/header_.png" alt="Header">
-  <img src="gitartwork.svg" alt="TIEN2K3">
-  <img src="https://raw.githubusercontent.com/ngothanhnhan/ngothanhnhan/main/dist/grid-snake.svg" alt="Grid-Snake">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nhan-create&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nhan-create&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <table align="center">
+    <tr>
+      <td>🔭</td>
+      <td><b>Đang xây dựng</b></td>
+      <td>Các dự án Backend với Java & Spring Boot</td>
+    </tr>
+    <tr>
+      <td>🌱</td>
+      <td><b>Đang học hỏi</b></td>
+      <td>Microservices, Docker, System Design</td>
+    </tr>
+    <tr>
+      <td>👯</td>
+      <td><b>Sẵn sàng hợp tác</b></td>
+      <td>Các dự án mã nguồn mở & Backend</td>
+    </tr>
+    <tr>
+      <td>💬</td>
+      <td><b>Hỏi tôi về</b></td>
+      <td>Java, Spring, RESTful APIs, Git, Linux</td>
+    </tr>
+    <tr>
+      <td>⚡</td>
+      <td><b>Fun fact</b></td>
+      <td>Tôi tin rằng code tốt nhất là code không cần comment 😄</td>
+    </tr>
+  </table>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ngothanhnhan/ngothanhnhan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ngothanhnhan/ngothanhnhan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ngothanhnhan/ngothanhnhan/output/pacman-contribution-graph.svg">
-</picture>
-
-<h3 align="left"> 📚 Languages and Tools </h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-snow?logo=python&logoColor=3776AB" alt="" />
-  <img src="https://img.shields.io/badge/Java-snow?logo=coffeescript&logoColor=FC4C02" alt="" />
-  <img src="https://img.shields.io/badge/C%2B%2B-snow?logo=c%2B%2B&logoColor=00599C" alt="" />
-  <img src="https://img.shields.io/badge/C-snow?logo=c&logoColor=A8B9CC" alt="" />
-  <img src="https://img.shields.io/badge/C%23-snow?logo=csharp&logoColor=512BD4" alt="" />
-  <img src="https://img.shields.io/badge/JavaScript-snow?logo=javascript&logoColor=E9CE30" alt="" />
-  <img src="https://img.shields.io/badge/Go-snow?logo=go&logoColor=00ADD8" alt="" />
-  <img src="https://img.shields.io/badge/Swift-snow?logo=swift&logoColor=F05138" alt="" />
-  <img src="https://img.shields.io/badge/Rust-snow?logo=rust&logoColor=000000" alt="" />
-  <img src="https://img.shields.io/badge/Ruby-snow?logo=ruby&logoColor=CC342D" alt="" />
-  <img src="https://img.shields.io/badge/Kotlin-snow?logo=kotlin&logoColor=7F52FF" alt="" />
-  <img src="https://img.shields.io/badge/TypeScript-snow?logo=typescript&logoColor=3178C6" alt="" />
-  <img src="https://img.shields.io/badge/Dart-snow?logo=dart&logoColor=0175C2" alt="" />
-</p>
-
-<h3>🔥 Streak Stats</h3>
-<p>
-  <a href="https://github.com/ngothanhnhan/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ngothanhnhan's streak" src="https://streak-stats.demolab.com/?user=ngothanhnhan&theme=monokai-metallian&hide_border=true"/>
-    <img src="https://i.ibb.co/N366vtQ/hoangtien2k3.png" alt="ngothanhnhan" width="200px">
-  </a>
-</p>
-<p>🔥 Get streak stats for your profile at <a href="https://ngothanhnhan.github.io">ngothanhnhan.github.io</a></p>
-
-<h3>💻💬 GitHub Profile Stats</h3>
-<div align="center">
-  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
-  <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
-  <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
-  <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="25" height="25"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="25" height="25"/>
-  <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="25" height="25"/>
-  <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="25" height="25"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="25" height="25"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
-  <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="25" height="25"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="25" height="25"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="25" height="25"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
-  <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
-</div>
-
+<br/>
+<!-- ═══════════════════════ CONTRIBUTION GRAPH ═══════════════════════ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
+<h2>
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" alt="icon" />
+  &nbsp;Contribution Graph
+</h2>
 <p align="center">
-  <a href="#"><img alt="ngothanhnhan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ngothanhnhan&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="#"><img alt="ngothanhnhan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ngothanhnhan&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nhan-create/Nhan-create/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nhan-create/Nhan-create/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Nhan-create/Nhan-create/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
 </p>
-
+<br/>
+<!-- ═══════════════════════ QUOTE ═══════════════════════ -->
 <p align="center">
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
-
+<!-- ═══════════════════════ VISITOR COUNT ═══════════════════════ -->
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ngothanhnhan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ngothanhnhan&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Nhan-create&label=Profile%20Views&color=784BA0&style=for-the-badge" alt="Profile Views" />
 </p>
-
-<h3>⚡ Recent GitHub Activity</h3>
-
-<p align="center">
-  <a href="https://commits.top/vietnam.html">
-    <img src="http://iot.fbiego.com/api/v1/commits?user=ngothanhnhan&country=VietNam&bg_color=293035&text_color=fafafa&border_color=293035">
-  </a>
-  <a href="https://commits.top/vietnam_private.html">
-    <img src="http://iot.fbiego.com/api/v1/commits?user=ngothanhnhan&country=VietNam_Private&bg_color=293035&text_color=fafafa&border_color=293035">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://ngothanhnhan.github.io"><img src="https://github.com/ngothanhnhan/ngothanhnhan/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="@ngothanhnhan's Web ngothanhnhan"></a>
-</p>
-
-<div align="center">
-  <a href="https://github.com/ngothanhnhan">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ngothanhnhan&theme=2077" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ngothanhnhan&theme=2077" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ngothanhnhan&theme=2077" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ngothanhnhan&theme=2077" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ngothanhnhan&theme=2077" height="180em" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://vineet221713.io">
-    <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" alt="MasterHead" />
-  </a>
-</div>
-
-</details>
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3CAC,50:784BA0,100:2B86C5&height=120&section=footer" alt="footer" />
