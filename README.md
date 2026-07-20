@@ -22,27 +22,32 @@
 <h2>👋 Hi there, Good Day</h2>
 
 <div>
+  <!-- Ảnh cá voi Docker căn lề bên phải -->
   <a href="https://github.com/Nhan-create">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHY5bTNsMmFqdjg5NmJjYTVsc2psZHp6b29uNnV3NGdyNGswYjV2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3p50WGyUqhU52/giphy.gif" alt="Developer GIF" align="right" width="220">
+      <img src="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/main/img/icon_docker_sys.png" alt="Developer System Illustration" align="right" width="210">
   </a>
 
+  <!-- Phần chữ giới thiệu bản thân bên trái -->
   <div align="left">
 
 I am passionate about software development, focusing on cross-platform frameworks, web architectures, and data analytics. I enjoy building robust applications and exploring distributed computing infrastructures.
 
 - 🔭 I’m currently working on projects involving **Flutter**, **ASP.NET MVC**, and **Big Data pipelines**.
+- 👯 I regularly collaborate with **Romfff**.
 - ⚡ Fun fact: I enjoy tracking international football statistics and historical tournament analytics.
 
 <br>
 
+<!-- Biểu đồ Pacman hiển thị động ở giữa -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nhan-create/Nhan-create/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nhan-create/Nhan-create/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nhan-create/Nhan-create/output/github-contribution-grid-snake.svg" width="600">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nhan-create/Nhan-create/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nhan-create/Nhan-create/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nhan-create/Nhan-create/output/pacman-contribution-graph.svg" width="600">
 </picture>
 
   </div>
 </div>
+  
 
 <h2>📚 Language and Tools</h2>
 <p align="left">
