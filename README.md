@@ -1,11 +1,11 @@
-<!-- Title The Full Name with Typing Effect -->
+
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.demolab.com?font=&size=27&pause=1000&color=F03B9E&center=true&vCenter=true&width=435&lines=Ng%C3%B4+Thanh+Nh%C3%A2n;Software+Developer;Big+Data+Enthusiast"></a>
 </p>
 
-<!-- Social icons section -->
+
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/OXZM1L6.png"/></a> <!-- Lưu ý: Thay đổi các đường link của bạn vào đây -->
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/OXZM1L6.png"/></a> <
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/YOUR-DISCORD-INVITE" alt="Discord" title="Join Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -18,16 +18,15 @@
   <a href="https://www.buymeacoffee.com/YOUR-BMC"><img width="32px" alt="Buy Me A Coffee" title="Buy me a coffee" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
 
-<!-- Information myself -->
 <h2>👋 Hi there, Good Day</h2>
 
 <div>
-  <!-- Ảnh cá voi Docker căn lề bên phải -->
+
   <a href="https://github.com/Nhan-create">
       <img src="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/main/img/icon_docker_sys.png" alt="Developer System Illustration" align="right" width="210">
   </a>
 
-  <!-- Phần chữ giới thiệu bản thân bên trái -->
+
   <div align="left">
 
 I am passionate about software development, focusing on cross-platform frameworks, web architectures, and data analytics. I enjoy building robust applications and exploring distributed computing infrastructures.
@@ -37,7 +36,7 @@ I am passionate about software development, focusing on cross-platform framework
 
 <br>
 
-<!-- Biểu đồ Pacman hiển thị động ở giữa -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nhan-create/Nhan-create/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nhan-create/Nhan-create/output/pacman-contribution-graph.svg">
@@ -67,7 +66,7 @@ I am passionate about software development, focusing on cross-platform framework
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
 </p>
 
-<!-- More Information Details Myself -->
+
 <details>
 <summary> More about me, developer 🚀
   <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=Nhan-create.visitor-badge">
@@ -78,10 +77,30 @@ I am passionate about software development, focusing on cross-platform framework
 <p align="center">
   <img src="gitartwork.svg" alt="NHAN gitartwork" />
 </p>
+  <p align="center">
+  <img src="gitartwork.svg" alt="NHAN! gitartwork" width="100%" />
+</p>
+<!-- 1. Tiêu đề chữ chạy tên bạn trên cùng -->
+<p align="center">
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=&size=27&pause=1000&color=F03B9E&center=true&vCenter=true&width=435&lines=Ng%C3%B4+Thanh+Nh%C3%A2n;Software+Developer;Big+Data+Enthusiast"></a>
+</p>
 
+<!-- 2. DÁN ĐOẠN CODE BIỂU ĐỒ CHỮ VÀO ĐÂY -->
+<p align="center">
+  <img src="gitartwork.svg" alt="NHAN! gitartwork" width="100%" />
+</p>
+
+<!-- 3. Biểu đồ Pacman phía dưới -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nhan-create/Nhan-create/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nhan-create/Nhan-create/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nhan-create/Nhan-create/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
+</p>
 <img src="https://media.giphy.com/media/qgQUggAC3PfvGTJVPQ/giphy.gif" alt="Coding Banner" width="100%" />
 
-<!-- Streak Stats -->
+
 <h3>🔥 Streak Stats</h3>
 <p>
   <a href="https://github.com/Nhan-create/github-readme-streak-stats">
