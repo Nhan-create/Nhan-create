@@ -25,16 +25,16 @@
 
 <br/>
 
-## 🚀 About Me (Giới thiệu)
+## About Me 
 
-- 👨‍💻 Xin chào, mình là **Ngô Thanh Nhân** – Đam mê lập trình và phát triển sản phẩm web/phần mềm.
-- 🎯 **Mục tiêu**: Xây dựng các dự án web hiện đại, tối ưu hiệu năng và trải nghiệm người dùng.
-- 💡 **Sở thích**: Học hỏi công nghệ mới, viết code và tối ưu hóa dự án trên GitHub.
-- 📫 **Liên hệ**: Dòng tin nhắn mở cho mọi cơ hội hợp tác và chia sẻ kinh nghiệm.
+- Xin chào, mình là **Ngô Thanh Nhân** – Đam mê lập trình và phát triển sản phẩm web/phần mềm.
+- **Mục tiêu**: Xây dựng các dự án web hiện đại, tối ưu hiệu năng và trải nghiệm người dùng.
+- **Sở thích**: Học hỏi công nghệ mới, viết code và tối ưu hóa dự án trên GitHub.
+- **Liên hệ**: Dòng tin nhắn mở cho mọi cơ hội hợp tác và chia sẻ kinh nghiệm.
 
 <br/>
 
-## 🛠️ Tech Stack & Tools (Công nghệ & Công cụ)
+## Tech Stack & Tools 
 
 ### **Languages & Frontend**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -55,33 +55,11 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<br/>
-
-## 📊 GitHub Analytics (Thống kê GitHub)
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Nhan-create&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nhan-create&layout=compact&theme=tokyonight&hide_border=true&hide=html" height="170" alt="languages card" />
-
-  <br/><br/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nhan-create&theme=tokyonight&hide_border=true" alt="streak card" />
 
 </div>
 
-<br/>
-
-## 📌 Featured Repositories (Dự án tiêu biểu)
-
-| Dự án | Mô tả | Công nghệ |
-| :--- | :--- | :--- |
-| 🌐 **My Portfolio** | Trang web cá nhân giới thiệu sản phẩm và kỹ năng | React, TailwindCSS |
-| 🛠️ **Web App Demo** | Ứng dụng web quản lý công việc | Node.js, Express, MongoDB |
-
-<br/>
-
----
 
 <div align="center">
 
