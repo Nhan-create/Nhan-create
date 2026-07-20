@@ -4,9 +4,8 @@
 
 I am passionate about software development, focusing on cross-platform frameworks, web architectures, and data analytics. I enjoy building robust applications and exploring distributed computing infrastructures.
 
-- 🔭 I’m currently working on projects involving **Flutter**, **ASP.NET MVC**, and **Big Data pipelines**.
-- 👯 I regularly collaborate with **Romfff**.
-- ⚡ Fun fact: I enjoy tracking international football statistics and historical tournament analytics.
+- I’m currently working on projects involving **Flutter**, **ASP.NET MVC**, and **Big Data pipelines**.
+- Fun fact: I enjoy tracking international football statistics and historical tournament analytics.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nhan-create/Nhan-create/output/github-contribution-grid-snake-dark.svg">
@@ -30,14 +29,14 @@ I am passionate about software development, focusing on cross-platform framework
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 </p>
 
-### 💼 Featured Projects
+### Featured Projects
 - **ViecCuaTui**: Mobile recruitment portal application incorporating functional algorithmic matching directories.
 - **Bakery E-commerce**: Online storefront utilizing ASP.NET MVC patterns and visual design layouts.
 - **Big Data Analytics**: Distributed multi-node Hadoop and Apache Spark cluster inside virtualized runtime instances for parallel log processing.
 - **Corporate Systems Portfolio**: Information network logistics and procurement workflow mapping for a garment manufacturing firm.
 
 <details>
-  <summary>More about me 🔥 <img src="https://profile-counter.glitch.me/Nhan-create/count.svg" alt="Visitor Count" /></summary>
+  <summary>More about me <img src="https://profile-counter.glitch.me/Nhan-create/count.svg" alt="Visitor Count" /></summary>
   
   <img src="LINK_TO_YOUR_BANNER_IMAGE" alt="Banner" width="100%" />
 </details>
