@@ -5,17 +5,10 @@
 
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/OXZM1L6.png"/></a> <
+  <a href="https://www.linkedin.com/in/ng%C3%B4-thanh-nh%C3%A2n-0a5078423/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/OXZM1L6.png"/></a> <
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/YOUR-DISCORD-INVITE" alt="Discord" title="Join Discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="mailto:nngo9154@gmail.com"><img width="32px" alt="Gmail" title="Send Email" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img width="32px" alt="Gmail" title="Send Email" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/YOUR-KOFI"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.youtube.com/YOUR-CHANNEL"><img width="32px" alt="Youtube" title="Youtube Channel" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.buymeacoffee.com/YOUR-BMC"><img width="32px" alt="Buy Me A Coffee" title="Buy me a coffee" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
 
 
