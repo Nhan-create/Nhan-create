@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ng%C3%B4-thanh-nh%C3%A2n-0a5078423/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/OXZM1L6.png"/></a> <
+  <a href="https://www.linkedin.com/in/ng%C3%B4-thanh-nh%C3%A2n-0a5078423/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:nngo9154@gmail.com"><img width="32px" alt="Gmail" title="Send Email" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -68,13 +68,12 @@ I am passionate about software development, focusing on cross-platform framework
 </p>
 <p align="center">
   <img src="gitartwork.svg" alt="NHAN gitartwork" />
-
-<img src="https://media.giphy.com/media/qgQUggAC3PfvGTJVPQ/giphy.gif" alt="Coding Banner" width="100%" />
-
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Banner" width="100%" />
+</p>
 
 <h3>🔥 Streak Stats</h3>
 <p>
-  <a href="https://github.com/Nhan-create/github-readme-streak-stats">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile" alt="Nhan-create's streak" src="https://streak-stats.demolab.com/?user=Nhan-create&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
@@ -84,7 +83,7 @@ I am passionate about software development, focusing on cross-platform framework
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="25" height="25"/>
@@ -96,8 +95,8 @@ I am passionate about software development, focusing on cross-platform framework
 
 <br/>
 
-<a href="#"><img alt="Nhan-create's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Nhan-create&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<a href="#"><img alt="Nhan-create's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Nhan-create&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="#"><img alt="Nhan-create's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nhan-create&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="#"><img alt="Nhan-create's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nhan-create&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 
 <br/>
 <br/>
@@ -107,13 +106,11 @@ I am passionate about software development, focusing on cross-platform framework
 <br/>
 
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nhan-create&theme=2077" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nhan-create&theme=2077" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nhan-create&theme=2077" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nhan-create&theme=2077" height="180em" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nhan-create&theme=2077" height="180em" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nhan-create&theme=2077" height="180em" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nhan-create&theme=2077" height="180em" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nhan-create&theme=2077" height="180em" />
 </div>
-
-</p>
 
 <h3>📁 Featured Projects</h3>
 <ul>
